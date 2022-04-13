@@ -1,0 +1,12 @@
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\bin\Debug\net5.0\Fnyo.Learn.Service.deps.json
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\bin\Debug\net5.0\Fnyo.Learn.Service.dll
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\bin\Debug\net5.0\ref\Fnyo.Learn.Service.dll
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\bin\Debug\net5.0\Fnyo.Learn.Service.pdb
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\obj\Debug\net5.0\Fnyo.Learn.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\obj\Debug\net5.0\Fnyo.Learn.Service.AssemblyInfoInputs.cache
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\obj\Debug\net5.0\Fnyo.Learn.Service.AssemblyInfo.cs
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\obj\Debug\net5.0\Fnyo.Learn.Service.csproj.CoreCompileInputs.cache
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\obj\Debug\net5.0\Fnyo.Learn.Service.dll
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\obj\Debug\net5.0\ref\Fnyo.Learn.Service.dll
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\obj\Debug\net5.0\Fnyo.Learn.Service.pdb
+D:\jenkins\jenkins\Fnyo.Learn.Jenkins\Fnyo.Learn.Service\obj\Debug\net5.0\Fnyo.Learn.Service.csproj.AssemblyReference.cache

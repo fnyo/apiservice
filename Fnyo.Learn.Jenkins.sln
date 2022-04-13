@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fnyo.Learn.Jenkins", "Fnyo.Learn.Jenkins\Fnyo.Learn.Jenkins.csproj", "{12122A99-1338-4198-8256-5FD0A9C67B43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fnyo.Learn.Service", "Fnyo.Learn.Service\Fnyo.Learn.Service.csproj", "{67252CEF-C41F-4EB4-905B-E4F6FF76A602}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{66549F57-436A-40E2-8A7A-6C1326A721C5}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12122A99-1338-4198-8256-5FD0A9C67B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12122A99-1338-4198-8256-5FD0A9C67B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12122A99-1338-4198-8256-5FD0A9C67B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12122A99-1338-4198-8256-5FD0A9C67B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67252CEF-C41F-4EB4-905B-E4F6FF76A602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67252CEF-C41F-4EB4-905B-E4F6FF76A602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67252CEF-C41F-4EB4-905B-E4F6FF76A602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67252CEF-C41F-4EB4-905B-E4F6FF76A602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A415C5CB-A3D1-49AB-B80E-17E21D907B2E}
+	EndGlobalSection
+EndGlobal
